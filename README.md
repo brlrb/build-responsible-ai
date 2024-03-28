@@ -18,3 +18,7 @@ Assistant Page : https://bikrammaharjan-responsible-ai-assistant.hf.space/
 -  **behindthemodel.AI assistant** can make mistakes
 -  Please ensure accuracy through diligent verification before implementation 🤝
 -  Chat history is stored in LangSmith to debug, test, evaluate, and monitor and improve the assistant
+
+
+![Build Responsible AI - Assistant](https://raw.githubusercontent.com/brlrb/responsible-ai-assistant/main/app/assests/data/architecture.png?raw=true)
+

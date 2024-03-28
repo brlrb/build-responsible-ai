@@ -14,4 +14,4 @@ Hello! 👋 I'm Bikram, and I'm excited to share an ongoing research on helping 
 #### Before you begin, please note: 
 -  **behindthemodel.AI assistant** can make mistakes
 -  Please ensure accuracy through diligent verification before implementation 🤝
--  Chat history is stored in LangSmith to debug, test, evaluate, and monitor and improve the assistant
+-  Chat history is stored in **LangSmith** to debug, test, evaluate, and monitor and improve the assistant

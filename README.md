@@ -21,11 +21,13 @@ Assistant Page : https://bikrammaharjan-responsible-ai-assistant.hf.space/
 
 ---
 #### Stay in touch
-> Discord: https://discord.gg/UkqcpZQNH3
+> Discord Invite: https://discord.gg/UkqcpZQNH3
 ---
 
 ### How it works - Behind the AI Assistant
 
 ![Build Responsible AI - Assistant](https://raw.githubusercontent.com/brlrb/responsible-ai-assistant/main/app/assests/data/architecture.png?raw=true)
 
+---
 
+### Build, Build, Build 🤝

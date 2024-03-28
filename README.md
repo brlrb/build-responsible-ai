@@ -21,7 +21,7 @@ Assistant Page : https://bikrammaharjan-responsible-ai-assistant.hf.space/
 
 ---
 
-#### How it works - Behind the AI Assistant
+### How it works - Behind the AI Assistant
 
 ![Build Responsible AI - Assistant](https://raw.githubusercontent.com/brlrb/responsible-ai-assistant/main/app/assests/data/architecture.png?raw=true)
 

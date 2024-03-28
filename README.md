@@ -19,6 +19,7 @@ Assistant Page : https://bikrammaharjan-responsible-ai-assistant.hf.space/
 -  Please ensure accuracy through diligent verification before implementation 🤝
 -  Chat history is stored in LangSmith to debug, test, evaluate, and monitor and improve the assistant
 
+---
 
 #### How it works - Behind the AI Assistant
 

@@ -41,12 +41,11 @@ multi_modal = false
 # Name of the app and chatbot.
 name = "behindthemodel.ai"
 
-
 # Show the readme while the thread is empty.
 show_readme_as_default = true
 
 # Description of the app and chatbot. This is used for HTML tags.
-# description = "behindthemodel.ai - Build Responsibly"
+description = "behindthemodel.ai - Build Responsibly"
 
 # Large size content are by default collapsed for a cleaner ui
 default_collapse_content = true
@@ -55,10 +54,12 @@ default_collapse_content = true
 default_expand_messages = false
 
 # Hide the chain of thought details from the user in the UI.
-hide_cot = false
+hide_cot = true
+
+
 
 # Link to your github repo. This will add a github button in the UI's header.
-# github = "https://github.com/brlrb/build-responsible-ai"
+github = "https://github.com/brlrb/responsible-ai-assistant"
 
 # Specify a CSS file that can be used to customize the user interface.
 # The CSS file can be served from the public directory or via an external link.
@@ -70,9 +71,6 @@ hide_cot = false
 
 # Specify a custom font url.
 # custom_font = "https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap"
-
-
-# This should be a google font url
 custom_font = "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
 
 

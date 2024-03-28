@@ -20,8 +20,12 @@ Assistant Page : https://bikrammaharjan-responsible-ai-assistant.hf.space/
 -  Chat history is stored in LangSmith to debug, test, evaluate, and monitor and improve the assistant
 
 ---
+#### Stay in touch
+> Discord: https://discord.gg/UkqcpZQNH3
+---
 
 ### How it works - Behind the AI Assistant
 
 ![Build Responsible AI - Assistant](https://raw.githubusercontent.com/brlrb/responsible-ai-assistant/main/app/assests/data/architecture.png?raw=true)
+
 

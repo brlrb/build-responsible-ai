@@ -7,5 +7,5 @@ langchainhub
 faiss_cpu 
 pymupdf 
 pandas
-chainlit==1.0.506
+chainlit==1.0.400
 tiktoken
